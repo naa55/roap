@@ -2,24 +2,24 @@
 <?php include "includes/breadcrumbs.html" ?>
 
 <div class="main-section">
-    <div class="middle-section">
+<div class="middle-section">
         <div class="general-info">
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget orci tincidunt, scelerisque leo a, finibus augue. Vestibulum placerat quis mi sed blandit. Maecenas est nibh, varius vitae tellus vitae, vehicula cursus orci. Sed tristique leo placerat, viverra est id, consectetur elit. Praesent non urna dapibus, faucibus risus eget, euismod libero. Sed ac scelerisque lectus. Vestibulum viverra placerat maximus.
             </p>
         </div>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <ul class="nav nav-tabs flex-column nav-fill w-100">
+            <ul class="nav nav-tabs nav-fill w-100">
                 <li class="nav-item"><a class="nav-link to-personal">Personal<br>Information</a></li>
                 <li class="nav-item"><a class="nav-link to-language">Language<br>Proficiency</a></li>
                 <li class="nav-item"><a class="nav-link to-academic">Academic<br>Qualification</a></li>
-                <li class="nav-item"><a class="nav-link to-experience">Professional<br>Experiences</a></li>
+                <li class="nav-item"><a class="nav-link to-experience">Professional <br>Experiences</a></li>
                 <li class="nav-item"><a class="nav-link to-expertise">Areas of<br>Expertise</a></li>
-                <li class="nav-item"><a class="nav-link to-publications active">Research & <br>Publicaiton</a></li>
+                <li class="nav-item"><a class="nav-link to-publications active">Research &<br>Publicaiton</a></li>
                 <li class="nav-item"><a class="nav-link">Preview &<br>Submit</a></li>
             </ul>
         </nav>
-        <div class="form-container">
+        <div class="form-container" id='conts'>
             <div class="form-headers text-center">
                 <h2>Research and Publications</h2>
             </div>

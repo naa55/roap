@@ -19,11 +19,11 @@
                 <li class="nav-item"><a class="nav-link">Preview &<br>Submit</a></li>
             </ul>
         </nav>
-        <div class="form-container">
+        <div class="form-container" id='conts'>
             <div class="form-headers text-center">
                 <h2>Professional Experience</h2>
                 <!-- TODO make info icon span both lines of text -->
-                <p><em><i class="fa fa-info-circle"></i>List all your relevant professional experiences beginning with the most recent</em></p>
+                <p class="lang"><em><i class="fa fa-info-circle"></i>List all your relevant professional experiences beginning with the most recent</em></p>
             </div>
             <form action="" class="">
                 <div class="row">

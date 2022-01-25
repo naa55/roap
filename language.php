@@ -15,9 +15,9 @@
             
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="nav nav-tabs nav-fill w-100">
+                    <li class="nav-item"><a class="nav-link to-personal">Personal<br> Information</a></li>
                     <li class="nav-item"><a class="nav-link active to-language">Language<br> Proficiency</a></li>
                     <li class="nav-item"><a class="nav-link to-language-alt">Language<br> Proficiency alt</a></li>
-                    <li class="nav-item"><a class="nav-link to-personal">Personal<br> Information</a></li>
                     <li class="nav-item"><a class="nav-link to-academic">Academic<br> Qualification</a></li>
                     <li class="nav-item"><a class="nav-link to-experience">Professional<br> Experiences</a></li>
                     <li class="nav-item"><a class="nav-link to-expertise">Areas of<br> Expertise</a></li>
@@ -26,11 +26,11 @@
                 </ul>
             </div>
         </nav>
-        <div class="form-container">
+        <div class="form-container" id='conts'>
         <div class="form-headers text-center">
             <h2>Language Proficiency</h2>
             <!-- TODO make info icon span both lines of text -->
-            <p><em><i class="fa fa-info-circle"></i>List as many languages that you can speak <br> Rate your proficiency of the languages from well to fair</em></p>
+            <p class="lang"><em><i class="fa fa-info-circle"></i>List as many languages that you can speak <br> Rate your proficiency of the languages from well to fair</em></p>
         </div>
 
         <!-- added languages -->

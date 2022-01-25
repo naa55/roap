@@ -7,25 +7,21 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget orci tincidunt, scelerisque leo a, finibus augue. Vestibulum placerat quis mi sed blandit. Maecenas est nibh, varius vitae tellus vitae, vehicula cursus orci. Sed tristique leo placerat, viverra est id, consectetur elit. Praesent non urna dapibus, faucibus risus eget, euismod libero. Sed ac scelerisque lectus. Vestibulum viverra placerat maximus.
             </p>
         </div>
-        <!-- horizontal navigation -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                <ul class="nav nav-tabs nav-fill w-100">
-                    <li class="nav-item"><a class="nav-link active to-personal">Personal<br> Information</a></li>
+            <ul class="nav nav-tabs nav-fill w-100">
+            <li class="nav-item"><a class="nav-link active to-personal">Personal<br> Information</a></li>
                     <li class="nav-item"><a class="nav-link to-language">Language<br> Proficiency</a></li>
                     <li class="nav-item"><a class="nav-link to-academic">Academic<br> Qualification</a></li>
                     <li class="nav-item"><a class="nav-link to-experience">Professional<br> Experiences</a></li>
                     <li class="nav-item"><a class="nav-link to-expertise">Areas of<br> Expertise</a></li>
                     <li class="nav-item"><a class="nav-link to-publications">Research &<br> Publicaiton</a></li>
                     <li class="nav-item"><a class="nav-link">Preview &<br>Submit</a></li>
-                </ul>
-            </div>
+            </ul>
         </nav>
-        <div class="form-container">
+        <!-- horizontal navigation -->
+     
+
+        <div class="form-container" id='conts'>
             <div class="form-headers text-center">
                 <h2>Personal Information</h2>
             </div>

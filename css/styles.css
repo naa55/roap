@@ -155,7 +155,12 @@ h1 {
   
   @media(max-width:800px) {
     #cont {
-        width: 500px;
+        /* width: 400px; */
+        margin-left: -25px;
+    }
+    .alt-language {
+        /* width: 600px; */
+        margin-right: 50px;
     }
     #header {
         width: 560px;
@@ -169,5 +174,11 @@ h1 {
     }
     .form-headers {
         width: 400px;
+    }
+    .lang {
+        margin-right: 40px;
+    }
+    #conts {
+        margin-left: 15px;
     }
 }
